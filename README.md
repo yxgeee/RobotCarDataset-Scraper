@@ -7,7 +7,7 @@ The code is tested for Python3 on Ubuntu 16.04.
 # Getting started
 
 ```bash
-wget https://raw.githubusercontent.com/matthewgadd/RobotCarDataset-Scraper/master/Dockerfile
+wget https://raw.githubusercontent.com/yxgeee/RobotCarDataset-Scraper/master/Dockerfile
 docker build -t robotcar-dataset-scraper .
 ```
 
