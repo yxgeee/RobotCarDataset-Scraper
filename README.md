@@ -19,7 +19,7 @@ Mount your downloads dir through the docker image:
 docker run --rm -it -w /RobotCarDataset-Scraper -v $HOME/Downloads:/Downloads robotcar-dataset-scraper:latest
 ```
 
-The script
+The script (optional!!)
 
 ```bash
 python get_datasets.py
